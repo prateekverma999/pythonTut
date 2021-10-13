@@ -1,0 +1,9 @@
+E:\python_java_go\python_tut>git pull https://github.com/prateekverma999/pythonTut.git
+
+E:\python_java_go\python_tut>git add .
+
+E:\python_java_go\python_tut>git status
+
+E:\python_java_go\python_tut>git commit -m "v1"
+
+E:\python_java_go\python_tut>git push origin main
